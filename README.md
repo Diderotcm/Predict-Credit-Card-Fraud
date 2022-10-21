@@ -6,11 +6,11 @@ Esse dataser consiste em trasações de cartão de cradito nos estados do oeste 
 
 Iremos tentar responder algumas perguntas como:
 
-1.Qual cidade está mais sujeita a fraudes?
-2.Qual estado está mais sujeito a fraudes?
-3.Pessoas mais velhas estão mais propensas a fraudes?
-4.Ocorre mais fraudes em alguma hora do dia especifica?
-5.O montante da trasação está relacionado a fraudes?
+1. Qual cidade está mais sujeita a fraudes?
+2. Qual estado está mais sujeito a fraudes?
+3. Pessoas mais velhas estão mais propensas a fraudes?
+4. Ocorre mais fraudes em alguma hora do dia especifica?
+5. O montante da trasação está relacionado a fraudes?
 
 
 Solucionando essas perguntas, teremos uma boa noção dos dados que estamos lidando e assim consiguiresmos criar modelos preditivos de classificação usando
